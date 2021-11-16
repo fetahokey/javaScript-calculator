@@ -1,6 +1,6 @@
 {
-  "homepage": "http://fetahokey.github.io/javaScript-calculator",
-  "name": "markdown-previewer",
+  "homepage": "http://fetahokey.github.io/javascript-calculator",
+  "name": "javascript-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
